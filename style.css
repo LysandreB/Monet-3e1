@@ -1,0 +1,30 @@
+body{
+	background-color:lightskyblue;
+}
+
+h1{
+	text-align:center;
+}
+
+.form{
+display:flex;
+flex-direction:row;
+margin-left:30%;
+margin-right:30%;
+}
+
+.password {
+	margin-left:10px;
+}
+
+.boutton {
+	width:65px;
+	margin-left:25px;
+}
+
+.lien {
+	text-align:center;
+	margin-top:30%;
+	text-decoration:none;
+	color:black;
+}
